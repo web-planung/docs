@@ -18,6 +18,16 @@
 						"pages": ["introduction", "quickstart", "development"]
 					},
 					{
+						"group": "Hosting",
+						"pages": [
+							"Einleitung",
+							{
+								"group": "E-Mail Hosting",
+								"pages": ["email-hosting"]
+							}
+						]
+					},
+					{
 						"group": "Essentials",
 						"pages": [
 							"essentials/markdown",
