@@ -58,11 +58,5 @@
 			"href": "https://dashboard.mintlify.com"
 		}
 	},
-	"footer": {
-		"socials": {
-			"x": "#",
-			"github": "#",
-			"linkedin": "#"
-		}
-	}
+	"footer": {}
 }
