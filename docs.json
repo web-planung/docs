@@ -4,10 +4,10 @@
 	"name": "Mint Starter Kit",
 	"colors": {
 		"primary": "#D02D14",
-		"light": "#07C983",
-		"dark": "#15803D"
+		"light": "#D02D14",
+		"dark": "#D02D14"
 	},
-	"favicon": "/favicon.svg",
+	"favicon": "https://www.web-planung.de/templates/lagom2/assets/img/favicons/favicon-192.png",
 	"navigation": {
 		"tabs": [
 			{
@@ -26,24 +26,6 @@
 							"essentials/settings",
 							"essentials/navigation",
 							"essentials/reusable-snippets"
-						]
-					}
-				]
-			},
-			{
-				"tab": "API Reference",
-				"groups": [
-					{
-						"group": "API Documentation",
-						"pages": ["api-reference/introduction"]
-					},
-					{
-						"group": "Endpoint Examples",
-						"pages": [
-							"api-reference/endpoint/get",
-							"api-reference/endpoint/create",
-							"api-reference/endpoint/delete",
-							"api-reference/endpoint/webhook"
 						]
 					}
 				]
@@ -67,7 +49,7 @@
 		"links": [
 			{
 				"label": "Support",
-				"href": "mailto:hi@mintlify.com"
+				"href": "mailto:service@web-planung.de"
 			}
 		],
 		"primary": {
@@ -78,9 +60,9 @@
 	},
 	"footer": {
 		"socials": {
-			"x": "https://x.com/mintlify",
-			"github": "https://github.com/mintlify",
-			"linkedin": "https://linkedin.com/company/mintlify"
+			"x": "#",
+			"github": "#",
+			"linkedin": "#"
 		}
 	}
 }
