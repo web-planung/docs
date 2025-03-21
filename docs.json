@@ -52,8 +52,8 @@
 		}
 	},
 	"logo": {
-		"light": "/logo/light.svg",
-		"dark": "/logo/dark.svg"
+		"light": "https://www.web-planung.de/templates/lagom2/assets/img/logo/logo_big.1553851892.png",
+		"dark": "https://www.web-planung.de/templates/lagom2/assets/img/logo/logo_big_inverse.287286156.png"
 	},
 	"navbar": {
 		"links": [
